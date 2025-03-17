@@ -53,6 +53,13 @@ To view the report:
 cat reports/scan_report.json
 ```
 
+Once the scan is complete, the results are stored in a **HTML report**.
+
+To view the report:
+```bash
+firefox reports/scan_report.html
+```
+
 ---
 
 ### **3️⃣ Update the Scanner (Optional)**
