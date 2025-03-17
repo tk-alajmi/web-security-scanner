@@ -1,4 +1,5 @@
 🔹 Web Security Scanner: Project Overview
+
 🛡️ What is this project?
 
 The Web Security Scanner is a powerful cybersecurity tool designed to detect vulnerabilities in web applications through automated passive and active security scanning. It mimics real-world penetration testing techniques to uncover risks such as SQL Injection (SQLi) 🛠️, Cross-Site Scripting (XSS) 🔥, and misconfigured security headers 🔒.
